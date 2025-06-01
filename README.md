@@ -215,5 +215,16 @@ Bot: Microsoft had $##### in 2022, while Tesla had $##### in 2024.
 
 ---
 
+## 13. 🚀 Try It Yourself
+
+Ready to give it a try? Just copy paste these commands:
+
+```bash
+git clone https://github.com/Darshanx256/financial-chatbot.git
+cd financial-chatbot
+pip install -r requirements.txt
+python main.py
+```
+
 🎉 Thanks for reading this far! Try out the bot if possible.
 
